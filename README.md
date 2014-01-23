@@ -1,21 +1,16 @@
 mcache Cookbook
 ===============
-TODO: Enter the cookbook description here.
-
-e.g.
-This cookbook makes your favorite breakfast sandwich.
+This cookbook will install and configure memcached on a CentOS server. Note that this cookbook is being created for training purposes and it not meant for production.
 
 Requirements
 ------------
-TODO: List your cookbook requirements. Be sure to include any requirements this cookbook has on platforms, libraries, other cookbooks, packages, operating systems, etc.
-
-e.g.
-#### packages
-- `toaster` - mcache needs toaster to brown your bagel.
+Unknown
 
 Attributes
 ----------
 TODO: List you cookbook attributes here.
+
+TBA
 
 e.g.
 #### mcache::default
