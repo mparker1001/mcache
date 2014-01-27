@@ -1,6 +1,6 @@
 mcache Cookbook
 ===============
-This cookbook will install and configure memcached on a CentOS server. Note that this cookbook is being created for training purposes and it not meant for production.
+This cookbook will install and configure memcached on a CentOS server. Note that this cookbook is being created for training purposes and is not meant for production.
 
 Requirements
 ------------
