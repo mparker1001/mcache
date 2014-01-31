@@ -1,3 +1,4 @@
+# encoding: utf-8
 name             'mcache'
 maintainer       'YOUR_COMPANY_NAME'
 maintainer_email 'YOUR_EMAIL'
